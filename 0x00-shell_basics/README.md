@@ -1,3 +1,4 @@
+#Bash Projects
 ### 0. Where am I? 
 Write a script that prints the absolute path name of the current working directory.
 ### 1. What’s in there? 
@@ -385,3 +386,6 @@ Repo:
     File: school.mgc
 
 
+MiddleChild47
+Student
+ALX - Soft Engineering Programme

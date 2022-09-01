@@ -373,8 +373,8 @@ Repo:
 - File: `103-Star_Wars`
 
 
-![MiddleChild47](https://github.com/N3sh47/alx-system_engineering-devops/blob/master/0x01-shell_permissions/awareness.jpg "Middlechild47")
-_MiddleChild47_
-_Student_
-_ALX - Soft Engineering Programme_
+
+MiddleChild47
+Student
+ALX - Soft Engineering Programme
 
