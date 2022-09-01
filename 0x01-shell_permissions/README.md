@@ -374,13 +374,7 @@ Repo:
 
 
 ![alt text](https://www.cyberlearning.ro/courses/cybersecurity-awareness-for-children-and-parents/ "Middlechild47")
-_MiddleChild47
-Student
-ALX - Soft Engineering Programme_
-
-
-
-
-
-
+_MiddleChild47_
+_Student_
+_ALX - Soft Engineering Programme_
 
