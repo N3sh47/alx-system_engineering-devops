@@ -373,7 +373,7 @@ Repo:
 - File: `103-Star_Wars`
 
 
-
+![alt text](https://www.cyberlearning.ro/courses/cybersecurity-awareness-for-children-and-parents/ "Middlechild47")
 _MiddleChild47
 Student
 ALX - Soft Engineering Programme_
