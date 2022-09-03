@@ -1,10 +1,8 @@
 # Bash Projects
-## 0x01. Shell, Permissions
+## 0x01. 
 
 
-
-
-MiddleChild47
-Student
-ALX - Soft Engineering Programme
+#### N3sh47
+#### Student
+#### ALX - Soft Engineering Programme
 
